@@ -9,4 +9,4 @@ Execution:
     Run using: java -jar mpls.jar
     
     
-    ![Image description](https://github.com/panagioths-k/mpls/tree/master/images/mpls.png)
+![Application](https://github.com/panagioths-k/mpls/tree/master/images/mpls.png)
