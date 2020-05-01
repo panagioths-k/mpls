@@ -7,6 +7,5 @@ MultiProtocol Label Switch Validator
 Execution:
     Download jar file (mpls.jar)
     Run using: java -jar mpls.jar
-    
-    
-![Application](https://github.com/panagioths-k/mpls/tree/master/images/mpls.png)
+
+![Application](images/mpls.png)
